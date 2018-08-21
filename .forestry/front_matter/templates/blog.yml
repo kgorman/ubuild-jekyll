@@ -7,3 +7,12 @@ fields:
   name: aaaaAa
   label: aAAaA
   description: aAaA
+- type: textarea
+  name: the_blog
+  label: the blog
+  description: sdsdsds
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
