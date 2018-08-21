@@ -1,0 +1,9 @@
+---
+label: blog
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: aaaaAa
+  label: aAAaA
+  description: aAaA
